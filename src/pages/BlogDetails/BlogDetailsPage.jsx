@@ -3,7 +3,7 @@ import BlogCommentForm from "../../components/BlogDetails/BlogCommentForm";
 import BlogComments from "../../components/BlogDetails/BlogComments";
 import BlogDetails from "../../components/BlogDetails/BlogDetails";
 import LayoutBlog from "../../layouts/LayoutBlog";
-
+console.log("fd")
 const BlogDetailsPage = () => {
   return (
     <LayoutBlog pageTitle={"Blog Details"} item={"BLOG DETAILS"}>
